@@ -1,6 +1,6 @@
 # Garden Layout Designer
 
-## Teammitgleider
+## Teammitglieder
 * Hannes K.
 * Leonora S.
 
